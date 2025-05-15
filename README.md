@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **FullStack Web Development**
 
-- 📫 How to reach me **gautammakwana671@gmail.com**
+- 📫 You can reach me **gautammakwana671@gmail.com**
 
 - ⚡ Fun fact **I can debug code faster than I can find my keys!**
 
