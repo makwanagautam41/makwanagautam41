@@ -12,9 +12,9 @@ You can click the Preview link to take a look at your changes.
 
 - 🌱 I’m currently learning **FullStack Web Development**
 
-- 📫 You can reach me **gautammakwana671@gmail.com**
+- 📫 You can reach out me **gautammakwana671@gmail.com**
 
-- :love_hotel:  Visit my site : **[gautammakwana.vercel.app](gautammakwana.vercel.app)**
+- :love_hotel:  Visit my site : [gautammakwana.vercel.app](https://gautammakwana.vercel.app)
 
 - ⚡ Fun fact **I can debug code faster than I can find my keys!**
 
