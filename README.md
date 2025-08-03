@@ -1,34 +1,67 @@
-<!---
-makwanagautam41/makwanagautam41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h1 align="center">Hi 👋, I'm Gautam Makwana</h1>
-<h3 align="center">Coding my way through the web one pixel at a time 🌐🧑‍💻 | From India with ❤️</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=makwanagautam41&label=Profile%20views&color=0e75b6&style=flat" alt="makwanagautam41" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=makwanagautam41" alt="makwanagautam41" /></a> </p>
-
-- 🌱 I’m currently completed **FullStack Web Development**
-
-- 📫 You can reach out me **gautammakwana671@gmail.com**
-
-- :love_hotel:  Visit my site : [gautammakwana.vercel.app](https://gautammakwana.vercel.app)
-
-- ⚡ Fun fact **I can debug code faster than I can find my keys!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gautammakwana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautammakwana" height="30" width="40" /></a>
-<a href="https://instagram.com/_gautammakwana_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_gautammakwana_" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=makwanagautam41&label=Profile%20views&color=008080&style=flat" alt="makwanagautam41" />
+  <img src="https://img.shields.io/badge/Code-Art-blueviolet?style=flat-square&logo=github&logoColor=white" alt="Code Art Badge" />
+  <img src="https://img.shields.io/badge/Made_in-India-orange?style=flat-square" alt="Made in India" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=makwanagautam41&show_icons=true&locale=en&layout=compact" alt="makwanagautam41" /></p>
+<h3 align="center">
+  Turning <span style="color:#27ae60"><b>Ideas</b></span> into <span style="color:#2980b9"><b>Software</b></span> — Pixel by Pixel. From India with ❤️
+</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=makwanagautam41&show_icons=true&locale=en" alt="makwanagautam41" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=makwanagautam41&" alt="makwanagautam41" /></p>
+### 🎯 **About Me**
+
+
+- 🌟 *I thrive at the intersection of design and logic, turning caffeine into code and ideas into user experiences.*
+- 💡 Always ready for the next challenge, whether it's a bug that refuses to die or a UI that refuses to cooperate.
+- ⚡ **Fun fact:** I can debug code faster than I can find my keys, and that's saying something!
+
+---
+
+### 💼 **Connect With Me**
+
+<p align="left">
+  <a href="https://linkedin.com/in/gautammakwana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
+  <a href="https://instagram.com/_gautammakwana_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
+  <a href="mailto:gautammakwana671@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
+  <a href="https://gautammakwana.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+### 🛠️ **Tech Toolbox**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,java,python,cpp,mysql,mongodb,git,linux,vscode" />
+</p>
+
+---
+
+### 📊 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=makwanagautam41&theme=gruvbox" alt="Trophy" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=makwanagautam41&show_icons=true&theme=radical" alt="Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makwanagautam41&layout=compact&theme=radical" alt="Languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makwanagautam41&theme=radical" alt="Streak" />
+</p>
+
+---
+
+<p align="center">
+  <sup>✨ Crafted with passion and a touch of caffeine. See you in the code! ✨</sup>
+</p>
