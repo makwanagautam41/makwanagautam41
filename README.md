@@ -48,9 +48,6 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=makwanagautam41&theme=gruvbox" alt="Trophy" />
-</p>
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=makwanagautam41&show_icons=true&theme=radical" alt="Stats" />
 </p>
 <p align="center">
