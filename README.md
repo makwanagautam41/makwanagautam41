@@ -53,9 +53,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makwanagautam41&layout=compact&theme=radical" alt="Languages" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=makwanagautam41&theme=radical" alt="Streak" />
-</p>
 
 ---
 
