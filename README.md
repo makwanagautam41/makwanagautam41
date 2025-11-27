@@ -56,6 +56,9 @@
 
 ---
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <p align="center">
   <sup>✨ Crafted with passion and a touch of caffeine. See you in the code! ✨</sup>
 </p>
