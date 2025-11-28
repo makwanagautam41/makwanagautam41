@@ -43,16 +43,6 @@
   <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,java,python,cpp,mysql,mongodb,git,linux,vscode" />
 </p>
 
----
-
-### 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=makwanagautam41&show_icons=true&theme=radical" alt="Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=makwanagautam41&layout=compact&theme=radical" alt="Languages" />
-</p>
 
 ---
 ### 📊 This Week I Spent My Time On:
