@@ -1,47 +1,56 @@
-<h1 align="center">Hi 👋, I'm Gautam Makwana</h1>
+### <samp>&gt; Hi there, I'm <a href="https://github.com/makwanagautam41" target="_blank">Gautam Makwana</a></samp>
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gautammakwana)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_gautammakwana_)
+[![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gautammakwana671@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://gautammakwana.vercel.app)
  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=makwanagautam41&label=Profile%20views&color=008080&style=flat" alt="makwanagautam41" />
-  <img src="https://img.shields.io/badge/Code-Art-blueviolet?style=flat-square&logo=github&logoColor=white" alt="Code Art Badge" />
-  <img src="https://img.shields.io/badge/Made_in-India-orange?style=flat-square" alt="Made in India" />
-</p>
+### Welcome to my digital space! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15">
 
-<div align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
-</div>
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;Building production-ready REST APIs with Node.js, Express & deploying on Dockerized VPS infrastructure
 
-<h3 align="center">
-  Turning <span style="color:#27ae60"><b>Ideas</b></span> into <span style="color:#2980b9"><b>Software</b></span> — Pixel by Pixel. From India with ❤️
-</h3>
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp;Mastering system design, CI/CD pipelines, microservices architecture & database optimization techniques
 
----
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;Let's talk about API security, Docker deployments, Redis caching, NGINX configurations, or backend best practices
 
-### 🎯 **About Me**
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;Open to backend collaborations & opportunities: gautammakwana671@gmail.com
 
+</br>
 
-- 🌟 *I thrive at the intersection of design and logic, turning caffeine into code and ideas into user experiences.*
-- 💡 Always ready for the next challenge, whether it's a bug that refuses to die or a UI that refuses to cooperate.
-- ⚡ **Fun fact:** I can debug code faster than I can find my keys, and that's saying something!
+```javascript
+const gautam = {
+  role: "Backend Developer",
+  location: "Gujarat, India 🇮🇳",
+  currentFocus: "Building scalable server-side applications",
+  expertise: {
+    backend: ["Node.js", "Express.js", "REST APIs", "JWT Auth", "Middleware Design"],
+    databases: ["MongoDB", "MySQL", "Query Optimization", "Schema Design"],
+    languages: ["JavaScript", "Typescript", "Java", "C++"],
+    tools: ["Git", "Linux", "Postman", "NGINX", "Docker"],
+    concepts: ["RESTful Architecture", "API Security", "System Design Patterns"]
+  },
+  currentlyWorking: [
+    "VPS hosting with Docker containerization",
+    "CI/CD pipelines using GitHub Actions",
+    "System design & architecture patterns",
+    "API performance optimization",
+    "Mastering DEVOPS"
+  ],
+  philosophy: "Code that scales is code that lasts",
+  availability: "Open to collaborations and backend opportunities",
+  
+  getCurrentStatus: () => {
+    return {
+      learning: "Advanced system design, distributed systems & microservices",
+      building: "Production-grade REST APIs with comprehensive error handling",
+      exploring: "Redis caching, Dockerized VPS deployments & CI/CD automation with GitHub Actions"
+    };
+  }
+};
 
----
-
-### 💼 **Connect With Me**
-
-<p align="left">
-  <a href="https://linkedin.com/in/gautammakwana" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" /></a>
-  <a href="https://instagram.com/_gautammakwana_" target="blank"><img align="center" src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" /></a>
-  <a href="mailto:gautammakwana671@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" /></a>
-  <a href="https://gautammakwana.vercel.app" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-0A192F?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-</p>
-
----
-
-### 🛠️ **Tech Toolbox**
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,html,css,tailwind,nodejs,express,java,python,cpp,mysql,mongodb,git,linux,vscode" />
-</p>
+console.log(gautam.getCurrentStatus());
+// Output: Always shipping, always learning 🚀
+```
 
 
 ---
