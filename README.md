@@ -4,16 +4,16 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/_gautammakwana_)
 [![Gmail Badge](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:gautammakwana671@gmail.com)
 [![Portfolio Badge](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://gautammakwana.vercel.app)
- 
-### Welcome to my digital space! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15">
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;Building production-ready REST APIs with Node.js, Express & deploying on Dockerized VPS infrastructure
+### <samp>Welcome to my digital space! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15"></samp>
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp;Mastering system design, CI/CD pipelines, microservices architecture & database optimization techniques
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp;<samp>Building production-ready REST APIs with Node.js, Express & deploying on Dockerized VPS infrastructure</samp>
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;Let's talk about API security, Docker deployments, Redis caching, NGINX configurations, or backend best practices
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp;<samp>Mastering system design, CI/CD pipelines, microservices architecture & database optimization techniques</samp>
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;Open to backend collaborations & opportunities: gautammakwana671@gmail.com
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;<samp>Let's talk about API security, Docker deployments, Redis caching, NGINX configurations, or backend best practices</samp>
+
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;<samp>Open to backend collaborations & opportunities: gautammakwana671@gmail.com</samp>
 
 </br>
 
