@@ -58,11 +58,11 @@ console.log(gautam.getCurrentStatus());
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   1 hr 17 mins          █████████▒░░░░░░░░░░░░░░░   37.62 %
-TypeScript   1 hr 3 mins           ███████▓░░░░░░░░░░░░░░░░░   30.64 %
-XML          25 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.09 %
-JSON         17 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
-Kotlin       12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
+JavaScript   1 hr 17 mins          █████████▓░░░░░░░░░░░░░░░   38.61 %
+TypeScript   1 hr 3 mins           ████████░░░░░░░░░░░░░░░░░   31.70 %
+XML          24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.31 %
+JSON         17 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+Git          9 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
 ```
 
 <!--END_SECTION:waka-->
