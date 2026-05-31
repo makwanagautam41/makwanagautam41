@@ -13,7 +13,7 @@
 
 <img src="https://github.com/Gapur/Gapur/blob/main/assets/message.gif?raw=true" width="21" />&nbsp;&nbsp;<samp>Let's talk about API security, Docker deployments, Redis caching, NGINX configurations, or backend best practices</samp>
 
-<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;<samp>Open to backend collaborations & opportunities: gautammakwana671@gmail.com</samp>
+<img src="https://github.com/Gapur/Gapur/blob/main/assets/letterbox.gif?raw=true" width="21" />&nbsp;&nbsp;<samp>Open to backend collaborations & opportunities: gautammakwana.dev@gmail.com</samp>
 
 </br>
 
