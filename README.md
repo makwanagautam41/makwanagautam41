@@ -58,11 +58,11 @@ console.log(gautam.getCurrentStatus());
 <!--START_SECTION:waka-->
 
 ```txt
-JSON                       29 mins               ███████████▓░░░░░░░░░░░░░   47.07 %
-XML                        19 mins               ████████░░░░░░░░░░░░░░░░░   31.99 %
-Nginx configuration file   3 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-YAML                       3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 %
-Other                      3 mins                █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+JSON                       29 mins               █████████████████▒░░░░░░░   69.32 %
+Nginx configuration file   3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+YAML                       3 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Other                      3 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 %
+TypeScript                 1 min                 ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.86 %
 ```
 
 <!--END_SECTION:waka-->
