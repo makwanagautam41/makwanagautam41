@@ -58,9 +58,8 @@ console.log(gautam.getCurrentStatus());
 <!--START_SECTION:waka-->
 
 ```txt
-Other        11 mins               ████████████████████████░   96.09 %
-Git Config   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.95 %
-Python       0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
+Git Config   0 secs                ██████████████████▓░░░░░░   75.32 %
+Python       0 secs                ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
 ```
 
 <!--END_SECTION:waka-->
