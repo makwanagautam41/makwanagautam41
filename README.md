@@ -58,7 +58,11 @@ console.log(gautam.getCurrentStatus());
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   50 mins               ██████████████████▒░░░░░░   73.24 %
+Bash         7 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.62 %
+JSON         3 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+CSS          2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+Markdown     2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
